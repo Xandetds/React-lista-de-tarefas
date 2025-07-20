@@ -1,36 +1,37 @@
-# 🚀 Lista de Tarefas (To-Do List) em React
+# 📋 Lista de Tarefas em React
 
-## 📝 Descrição do Projeto
+Aplicação simples de lista de tarefas desenvolvida com **React.js**, como parte do meu aprendizado da biblioteca. O objetivo principal foi praticar conceitos fundamentais de React, incluindo **hooks**, **manipulação de estado** e **componentização**.
 
-Este é um aplicativo simples de lista de tarefas desenvolvido com **React.js**. Serve como um exercício prático para praticar.
+---
 
-## ✨ Funcionalidades
+## ✅ Funcionalidades
 
-* Adicionar novas tarefas
-* Marcar tarefas como concluídas
-* Excluir tarefas
-* Filtrar tarefas
-* Ordenar tarefas
-* Buscar tarefas
+- Adicionar novas tarefas  
+- Marcar tarefas como concluídas  
+- Excluir tarefas  
+- Buscar, filtrar e ordenar tarefas  
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **React.js**
-* **JavaScript**
-* **HTML**
-* **CSS**
-* **Node.js / npm**
-* **Vite**
+- React.js  
+- JavaScript (ES6+)  
+- HTML e CSS  
+- Node.js + npm  
+- Vite
+
+---
 
 ## ⚙️ Como Configurar e Rodar
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/Xandetds/Nome-do-Seu-Repositorio-React.git](https://github.com/Xandetds/Nome-do-Seu-Repositorio-React.git) # Substitua pelo nome real
+       git clone https://github.com/Xandetds/React-lista-de-tarefas.git
     ```
     Navegue até a pasta raiz do projeto (onde está o `package.json`):
     ```bash
-    cd Nome-do-Seu-Repositorio-React
+    cd React-lista-de-tarefas
     ```
 2.  **Instalar Dependências:**
     ```bash
@@ -40,8 +41,10 @@ Este é um aplicativo simples de lista de tarefas desenvolvido com **React.js**.
     ```bash
     npm run dev
     ```
-    Acesse no navegador: `http://localhost:5173/` (ou o endereço que aparecer no terminal).
+    Acesse no navegador: `http://localhost:5173/`
 
 ## 👤 Autor
-
-* **Alexandre Tibes da Silva**
+Alexandre Tibes da Silva
+Estudante de Engenharia de Software – UniSatc
+📧 alexandretibes9@gmail.com
+🔗 linkedin.com/in/alexandre-tibes-2a79692b5
